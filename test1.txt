@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 0878-8005
+
+ Directory of C:\tmptmp
+
+02/20/2020  10:07 AM    <DIR>          .
+02/20/2020  10:07 AM    <DIR>          ..
+02/20/2020  10:06 AM    <DIR>          .git
+02/20/2020  10:07 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  748,757,639,168 bytes free
